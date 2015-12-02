@@ -95,6 +95,7 @@
   <ItemGroup />
   <ItemGroup>
     <Content Include="UseCases\Commenting_Post.html" />
+    <Content Include="UseCases\Commenting_Post_2.html" />
     <Content Include="UseCases\MakingAPost.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
