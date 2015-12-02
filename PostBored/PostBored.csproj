@@ -94,6 +94,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="UseCases\create_account.html" />
     <Content Include="UseCases\MakingAPost.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
